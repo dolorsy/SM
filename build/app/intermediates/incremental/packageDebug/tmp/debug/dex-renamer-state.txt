@@ -1,0 +1,4 @@
+#Tue Oct 06 13:15:35 EEST 2020
+base.0=D\:\\MegaAsync\\For Work\\shibly_marketing\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
